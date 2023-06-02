@@ -1,0 +1,76 @@
+.imagenIG{
+    height: 50px;
+    
+}
+.barranavegacion{
+    justify-content: flex-end;
+}
+.botonNP{
+    background-color: green;
+    color:white;
+}
+.fondowheel{
+    background-color: gray;
+    margin-left: 10px;
+    padding-left: 5px;
+}
+
+
+.photoFeed{
+    margin:auto;
+    margin-bottom: 20px;
+    padding-left: none;
+    padding-right: none;
+}
+.tamañoimagen{
+    object-fit: contain;
+  
+}
+.encabezado{
+    display: flex;
+    margin:15px;
+}
+.negrita{
+    font-weight: bold;
+}
+.imagenGrilla{
+    width: 420px;
+    height: 420px;
+    object-fit: cover;
+}
+.grilla-columna{
+    margin:5px;
+}
+
+.grilla{
+    display:inline-flex;
+    padding-left: none;
+    padding-right: none;
+}
+.button-seccion{
+    border:none;
+    background-color: white;
+}
+.boton-locacion{
+    padding-left: 16px;
+    padding-right: 16px;
+
+}
+.dropdown-menu[data-bs-popper]{
+    left: -110px;
+}
+.nav-link{
+    color:darkgray
+}
+.nav-link :hover{
+    color:blue;
+
+}
+.nav-link :active{
+    color:blue;
+
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
